@@ -1,5 +1,5 @@
 
-![DHU]([URL](https://github.com/dhuvisionlab/SOD/blob/main/DHU.gif))
+![]([URL](https://github.com/dhuvisionlab/SOD/blob/main/DHU.gif))
 
 
 <div align="center">  Welcome to Dhonghua University 👋</div>
